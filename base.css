@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+    background-color: #282828;
+    color: #FCFCFC;
+}
+nav {
+    background-color: #9E3E40;	
+}
+ul li a {
+    line-height: 45px;
+}
+.bigbox2 {
+    border: thick solid #E91418;
+}
+section {
+    float: left;
+	background-color: #9E3E40;
+}
+article {
+	float: left;
+}
